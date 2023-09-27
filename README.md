@@ -1,1 +1,0 @@
-ML project for predicting the student score
